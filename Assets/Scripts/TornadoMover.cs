@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// Test Comment A. Liu
 public class TornadoMover : MonoBehaviour {
 
     public static int Tornados = 0;
